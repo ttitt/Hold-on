@@ -16,6 +16,7 @@ namespace Hold_on
             InitializeComponent();
             fm.Close();
             fm.Dispose();
+            //Console.Read("hello world");
         }
     }
 }
