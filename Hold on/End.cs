@@ -17,6 +17,12 @@ namespace Hold_on
             fm.Close();
             fm.Dispose();
             //Console.Read("hello world");
+            /*
+             * 床前明月光
+             * 疑似地上霜
+             * 举头望明月
+             * 低头思故乡
+             */ 
         }
     }
 }
